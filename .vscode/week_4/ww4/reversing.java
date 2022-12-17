@@ -12,7 +12,7 @@ public class reversing {
         }
         
         public static void main(String[] args){
-        int num[] = {1,2,3,5,6,7,8,9};
+        int num[] = {2,434,5,3,53,5,4};
         int[] reversal = Reverse(num);
         for(int element: reversal){
         System.out.println(element);
