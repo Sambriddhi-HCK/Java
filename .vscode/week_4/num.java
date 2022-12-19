@@ -1,3 +1,4 @@
+package week_4;
 public class num {
     public static void main(String[] args) {
         int rows=5; int n=0;

@@ -1,3 +1,4 @@
+package week_4;
 public class hash{
     public static void main(String[] args) {
         int rows=6; int n=0;

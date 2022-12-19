@@ -1,3 +1,4 @@
+package week_4;
 import java.util.Scanner; 
 public class counting { 
     public static void main(String[] args)

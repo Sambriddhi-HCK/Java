@@ -1,3 +1,4 @@
+package week_4;
 public class arr {
     public static void main(String[] args) {
         int[] age ={13,35,8};

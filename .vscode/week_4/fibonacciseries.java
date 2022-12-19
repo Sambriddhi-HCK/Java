@@ -1,3 +1,4 @@
+package week_4;
 import java.util.Scanner; 
 public class fibonacciseries {
     public static void main(String[] args) {
